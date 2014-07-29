@@ -1,0 +1,29 @@
+{
+  "name": "iku",
+  "version": "0.1.0",
+  "description": "A simple, Grunt image and SVG optimiser",
+  "homepage": "https://github.com/stowball/iku",
+  "author": {
+    "name": "Matt Stow",
+    "url": "http://mattstow.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stowball/iku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stowball/iku/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-svgmin": "~0.4.0",
+    "grunt-contrib-imagemin": "~0.7.1"
+  }
+}
