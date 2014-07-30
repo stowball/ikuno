@@ -29,8 +29,8 @@ module.exports = function (grunt) {
 	});
 	
 	grunt.loadNpmTasks('grunt-contrib-clean');
-	grunt.loadNpmTasks('grunt-contrib-imagemin');
 	grunt.loadNpmTasks('grunt-svgmin');
+	grunt.loadNpmTasks('grunt-contrib-imagemin');
 	
 	grunt.registerTask('default', ['clean', 'svgmin', 'imagemin']);
 };

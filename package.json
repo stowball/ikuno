@@ -1,18 +1,18 @@
 {
-  "name": "iku",
+  "name": "ikuno",
   "version": "0.1.0",
   "description": "A simple, Grunt image and SVG optimiser",
-  "homepage": "https://github.com/stowball/iku",
+  "homepage": "https://github.com/stowball/ikuno",
   "author": {
     "name": "Matt Stow",
     "url": "http://mattstow.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/stowball/iku.git"
+    "url": "git://github.com/stowball/ikuno.git"
   },
   "bugs": {
-    "url": "https://github.com/stowball/iku/issues"
+    "url": "https://github.com/stowball/ikuno/issues"
   },
   "licenses": [
     {
