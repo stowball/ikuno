@@ -21,7 +21,7 @@ So, I've created ikuno to do just that!
 ### Usage
 
 1. Put images (png, jpg, gif, svg) to be optimised inside `images/original`
-2. In a shell window, run `grunt` or open grunt.bat for quick access in Windows
+2. In a shell window, run `grunt`
 3. Behold as your images are compressed in to `images/optimised` for you to copy/move in to your main project
 
 *Note that each time ikuno is run, the `images/optimised` directory will be emptied*
