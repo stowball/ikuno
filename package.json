@@ -1,6 +1,6 @@
 {
   "name": "ikuno",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple, Grunt image and SVG optimiser",
   "homepage": "https://github.com/stowball/ikuno",
   "author": {
@@ -21,9 +21,9 @@
     }
   ],
   "devDependencies": {
-    "grunt": "~0.4.5",
-    "grunt-contrib-clean": "~0.6.0",
-    "grunt-svgmin": "~0.4.0",
-    "grunt-contrib-imagemin": "~0.7.1"
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "~1.0.0",
+    "grunt-contrib-imagemin": "~1.0.1",
+    "grunt-svgmin": "^3.3.0"
   }
 }
